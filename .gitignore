@@ -1,0 +1,4 @@
+config.txt
+data/
+*exe 
+# aritnya file dengan type exe tidak akan terbawa
